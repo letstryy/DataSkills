@@ -5,3 +5,9 @@ Indeed.com
 
 ![Skillscloud](https://user-images.githubusercontent.com/14850120/64396176-6fb17880-d07a-11e9-8217-8d70b35e4c62.png)
 
+
+## Author
+Sneha Rawat [sneharawatt@gmail.com]
+
+Linkedin: https://www.linkedin.com/in/sneharawatt/
+
