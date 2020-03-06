@@ -49,7 +49,6 @@ def keywords_f(soup_obj):
     keywords = [str(word) for word in text if word in overall_dict] #if a skill keyword is found, return it.
     return keywords
 
-
 base_url = "http://www.indeed.com"
 #change the start_url can scrape different cities.
 start_url = "https://www.indeed.co.in/jobs?q=data+scientist&l=Delhi"
