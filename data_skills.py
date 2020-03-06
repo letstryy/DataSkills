@@ -11,7 +11,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from urllib.parse import urlparse
 
-
 program_languages=['bash','r','python','java','c++','ruby','perl','matlab','javascript','scala','php']
 analysis_software=['excel','tableau','d3.js','sas','spss','d3','saas','pandas','numpy','scipy','sps','spotfire','scikits.learn','splunk','powerpoint','h2o']
 bigdata_tool=['hadoop','mapreduce','spark','pig','hive','shark','oozie','zookeeper','flume','mahout']
